@@ -15,9 +15,12 @@ The "Cars - Purchase Decision" dataset contains information about car purchase d
 - Purchased: Whether the user made a purchase (Yes or No).
 
 **Repository Structure**
-Cars - Purchase Decision.csv: Contains the raw data files used in the analysis.
-Cars - Purchase Decision.ipynb: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
-Dependencies
+
+- Cars - Purchase Decision.csv: Contains the raw data files used in the analysis.
+- Cars - Purchase Decision.ipynb: Jupyter notebooks containing the code for data exploration, preprocessing, analysis, and visualization.
+
+**Dependencies**
+
 Python
 Pandas
 NumPy
