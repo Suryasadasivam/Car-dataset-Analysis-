@@ -21,10 +21,10 @@ The "Cars - Purchase Decision" dataset contains information about car purchase d
 
 **Dependencies**
 
-Python
-Pandas
-NumPy
-SciPy
-Plotly Express
-Statsmodels
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Plotly Express
+- Statsmodels
+- Jupyter Notebook
